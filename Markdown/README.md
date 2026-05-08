@@ -37,7 +37,7 @@ for (let i = 0; i < frugter.length; i++) {
 
 # Lise Nørgaard
 
-![Her er et billede af den ikoniske Lise Nørgaard](/image/nørgaard.jpg "Dette er Lise Nørgaard")
+![Her er et billede af den ikoniske Lise Nørgaard](/img/nørgaard.jpg "Dette er Lise Nørgaard")
 
 *"Der er en ting, der er værre end at være kedelig. Det er at være umorsom."*
 ###### - [Lise Nørgaard](https://www.kristeligt-dagblad.dk/danmark/10-citater-om-livet-af-lise-noergaard).
